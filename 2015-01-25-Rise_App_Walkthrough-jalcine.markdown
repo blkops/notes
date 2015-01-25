@@ -19,6 +19,7 @@
 ## Action Items
 
   * `rise-web` is now `rise-api`.
+  * Build out schema - [notes](./2015-01-25-Rise_App_Walkthrough/schema.markdown)
 
 ## Links
 
