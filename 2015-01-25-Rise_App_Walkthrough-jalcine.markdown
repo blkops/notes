@@ -16,4 +16,14 @@
   * Nuke other repositories to reduce clutter.
   * Consider using Ruby for more places.
 
+## Action Items
+
+  * `rise-web` is now `rise-api`.
+
+## Links
+
+  + <https://github.com/blkops/rise-web/blob/master/routes/events.js>
+  + <http://fergusonresponse.tumblr.com>
+  + <http://fergusonaction.com>
+
 [ionic]: http://ionicframework.com
