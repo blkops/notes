@@ -8,3 +8,7 @@ where we left off. Feel free to add by adhering to the format:
 Note that `HH` and `MM` should be _when_ the meeting started, not necessarily
 when you started recording. Also, replace the spaces in the meeting name with
 underscores.
+
+## Past Notes
+
+  *  [Rise Walkthrough + Discussion](./2015-01-25-Rise_App_Walkthrough-jalcine.markdown)
