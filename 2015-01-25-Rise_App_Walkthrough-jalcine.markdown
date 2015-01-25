@@ -12,5 +12,8 @@
   * Make data by default read-only. __Heavy__ moderation of writes will be in
     place.
   * Consider the methodology of handling administrators.
+  * **Draft out a schema for data to be collected**.
+  * Nuke other repositories to reduce clutter.
+  * Consider using Ruby for more places.
 
 [ionic]: http://ionicframework.com
