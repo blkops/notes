@@ -9,6 +9,6 @@ Note that `HH` and `MM` should be _when_ the meeting started, not necessarily
 when you started recording. Also, replace the spaces in the meeting name with
 underscores.
 
-## Past Notes
-
+## Past Notes (newest to oldest)
+  *  [Meeting with Tia Oso](users/2015-01-30-Meeting_With_Tia_Oso-odorsey.markdown)
   *  [Rise Walkthrough + Discussion](./2015-01-25-Rise_App_Walkthrough-jalcine.markdown)
