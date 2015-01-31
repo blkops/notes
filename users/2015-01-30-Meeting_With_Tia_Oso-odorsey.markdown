@@ -32,6 +32,7 @@
 #####What we don’t want:
 --------
 * An app that keeps all data about someone all in one place
+* A social media network (@Jacky)
 
 #####Resources:
 ------
