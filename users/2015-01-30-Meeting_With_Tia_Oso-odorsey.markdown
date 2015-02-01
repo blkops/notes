@@ -41,4 +41,4 @@
 * [FireChat](http://sinosphere.blogs.nytimes.com/2014/09/29/hong-kong-protesters-flock-to-off-grid-messaging-app/?_r=0)
 * [Arrest app that pings (@Dob) - I’m Getting Arrested:] (https://play.google.com/store/apps/details?id=us.quadrant2.arrested&hl=en)
 
-_Google Doc available for further editing._
+_Google Doc available for further editing [here](https://docs.google.com/document/d/1RvS-GXm2wKTfLt35on1A4e9JJ7YmmDOweupbQQE5OgA/edit)._
