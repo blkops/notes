@@ -20,13 +20,14 @@ Twitter Hashtag integration ([Twitter API](https://dev.twitter.com/rest/public))
  - Automatic Post Notifications to twitter #hashtags
  - View Event Details
  - RSVPs
- - Send Event Notifications (possibly via SMS? Would this help ensure security?)
+ - Send Event Notifications (possibly via SMS? Would SMS help ensure security?)
  
 ## Activists / Organizers
 - Find Event by location, start time, end time, keywords
-- Check in to events (research using foursquare or swarm for checkins)
+- Check in to events (research using [foursquare](https://developer.foursquare.com/) or swarm for checkins)
 - view events by location and cluster number of people
-- weather information ([OpeanWeatherMap API](http://openweathermap.org/api))?
+- weather information ([OpenWeatherMap API](http://openweathermap.org/api))?
+- Would there be an need for the ability to search past events? 
 
 
 
