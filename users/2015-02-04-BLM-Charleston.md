@@ -6,7 +6,7 @@
 * General project management and overall workflow
 * Tried *Asana*, however, software was too complex for current needs
 
-#####Setting up an event steps
+#####Before an event
 --------
 * Set an agenda
 * Create signs
