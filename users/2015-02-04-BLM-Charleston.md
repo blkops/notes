@@ -5,9 +5,9 @@
 * Tracking tasks/check-list
 * General project management and overall workflow
 * Tried *Asana*, however, software was too complex for current needs
---------
 
-###Workflow of an event
+--------
+####Workflow of an event
 #####Before an event
 * Set an agenda
 * Create signs
@@ -21,8 +21,8 @@
 
 #####After an event
 * Maintain momentum - continuous engagement of the issues
---------
 
+--------
 #####Plans
 * Better data collection using surveys to understand Black experiences that involve the police
 * Shortly discussed [North Carolina's arrest and traffic stop data](http://trafficstops.ncdoj.gov/Default.aspx?pageid=2)
