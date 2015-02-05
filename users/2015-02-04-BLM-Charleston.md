@@ -23,4 +23,4 @@
 
 #####Plans
 * Better data collection using surveys to understand Black experiences that involve the police
-* Shortly discussed North Carolina's arrest and traffic stop data
+* Shortly discussed [North Carolina's arrest and traffic stop data](http://trafficstops.ncdoj.gov/Default.aspx?pageid=2)
