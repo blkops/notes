@@ -10,7 +10,7 @@ when you started recording. Also, replace the spaces in the meeting name with
 underscores.
 
 ## Past Notes (newest to oldest):
-  *  02-22-2015: [Meeting about Rise Feature Set for V1](users/2015-02-22-Rise_Features_Meeting-odorsey.md)
+  *  02-22-2015: [Meeting about Rise Feature Set for V1](2015-02-22-Rise_Features_Meeting-odorsey.md)
   *  02-10-2015: [Meeting with BLM Wisconsin](users/2015-02-04-BLM-Wisconsin.md)
   *  02-04-2015: [Meeting with Muhiyidin Moye](users/2015-02-04-BLM-Charleston.md)
   *  01-30-2015: [Meeting with Tia Oso](users/2015-01-30-Meeting_With_Tia_Oso-odorsey.markdown)
