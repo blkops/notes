@@ -6,6 +6,7 @@ We're thinking that v1 will be deployed and tested only by Tia, her people, and 
   * @miql made this to test out how creating an event with ActionNetwork would work: https://actionnetwork.org/events/justice-by-any-means-necessary
 * [Facebook](https://developers.facebook.com/docs/facebook-login/v2.2) + [Instagram](https://instagram.com/developer/#) + [Twitter](https://dev.twitter.com/rest/public) are essential. 
 * [GroupMe](https://dev.groupme.com/docs/v3) or [Twilio](https://www.twilio.com/) for SMS? There's also the possibility of using web sockets. 
+  * Could we use [Slack](https://api.slack.com/)'s API?
   * Or should we just have a stream of notifications that users can subscribe to?
   * [MQTT](http://mqtt.org/) allows for messaging with "small power usage/minimized data packets"
   
