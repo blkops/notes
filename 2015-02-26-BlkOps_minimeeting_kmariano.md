@@ -1,6 +1,6 @@
 #On the lack of active engagement and the purpose of blkops
 
-[@miql][] and talked briefly during lunch and some interesting topics came up
+[@miql][] and I talked briefly during lunch and some interesting topics came up
 regarding blkops, the seeming lack of activist engagement and the feasability
 of building the rise-app. This led to a discussion about what should our
 overall mission be as an organization.
