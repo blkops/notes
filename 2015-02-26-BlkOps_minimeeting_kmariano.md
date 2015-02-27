@@ -19,6 +19,6 @@ I think that ultimately what I would like the organization to provide people is 
 
 Ultimately, protesting and raising awareness is the tip of the iceberg. The real change happens with policy at the local, state and national level. That means raising awareness on issues in local elections that may affect communities of color. Empowering people with information on the local political landscape so voters are informed during elections and can make changes. 
 
-
+The revolution may not be televised, but it will be pull-requested and merged :)
 
 
