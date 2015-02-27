@@ -13,11 +13,11 @@ the application would be useful for several reasons:
 1. It restarts the conversation regarding civil protest.
 2. It provides activists technology tools that they can choose to use to aid in
    their activism.
-3. Building the tool will give us valuable insights into other possible civic 
+3. Building the tool will give us valuable insights into other possible civic
    engagement tools that we could build.
 
 My feeling was that we should build the application anyway and that this would probably
-not be the only application we build for civic engagement. 
+not be the only application we build for civic engagement.
 
 I think that ultimately what I would like the organization to provide people is a way
 to enable "a turnkey civil rights movement". We should give activists, artists and
@@ -28,9 +28,9 @@ tools could include:
    platforms where they can broadcast their message.
 2. Semantic analysis of local and state records to identify issues that are important.
 3. Data analysis on government statistics at every level to highlight issues that
-   affect disenfranchised communities. 
+   affect disenfranchised communities.
 4. Creating field guides on how to securely network their communications and open-source
-   their engagement practices to make them more effective. 
+   their engagement practices to make them more effective.
 
 Ultimately, protesting and raising awareness is the tip of the iceberg.
 The real change happens with policy at the local, state and national level.
