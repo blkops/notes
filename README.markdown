@@ -10,6 +10,7 @@ when you started recording. Also, replace the spaces in the meeting name with
 underscores.
 
 ## Past Notes (newest to oldest):
+  *  05-24-2015: [Reconvening Meeting](2015-05-24-Reconvening_Meeting-odorsey.md)
   *  04-07-2015: [Prototype 1.0 Feedback (@blucka12 & @odorsey)](2015-04-07-Prototype_Feedback-odorsey.md)
   *  02-26-2015: [Lack of Active Engagement & Purpose of Blkops (@miql & @kmariano)](2015-02-26-BlkOps_minimeeting_kmariano.md)
   *  02-22-2015: [Meeting about Rise Feature Set for V1](2015-02-22-Rise_Features_Meeting-odorsey.md)
