@@ -1,6 +1,7 @@
 ##Rise App
 - No more Rise protest map app. We're thinking that smaller apps could be more effective.
 - Instead, Rise will be the name of a suite of app services that we can add to as we get more ideas for apps.
+- Also, we will probably be going native for any and all apps
 
 ##Arsire App
 - Currently thinking of creating an app to help activists who are getting arrested. The app would automatically create a crowdfunding page where people could donate money to them for their bail. The app would also have a feature to help provide legal representationand information about legal representation.
